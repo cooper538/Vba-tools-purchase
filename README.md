@@ -1,7 +1,7 @@
 # Useful excel workbooks with VBA
 
 Here I put some of my workbooks that I created to support our purchase department.
-They were build to transform exported data EPLAN (electro engineering software), but they will work with any other type of export. in the end, you can customize them😉
+They were build to transform exported data EPLAN (electro engineering software), but they will work with any other type of export. In the end, you can customize them😉
 
 ### Aggregate items
 - transform the list of items to purchase to the aggregate list (*order number* is identifier)
